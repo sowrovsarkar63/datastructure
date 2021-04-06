@@ -27,7 +27,7 @@ for Money in incomes.values():
 print(totalIncome)
     
 
-objects = ['blue','apple','dog','']
+objects = ['blue','apple','dog','Khub bador']
 categories = ['color','fruit','pet','monkey']
 a_dict = {key:value for key,value in zip(categories,objects)}
 print(a_dict)
