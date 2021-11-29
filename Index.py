@@ -1,1 +1,0 @@
-print("Intro to data structure and algorithms")
