@@ -28,3 +28,5 @@ console.log(quee.elements);
 
 quee.Dequee();
 console.log(quee.elements);
+
+// Quee Example With JavaScript
