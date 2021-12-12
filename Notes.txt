@@ -1,0 +1,15 @@
+//Learn And Practice In Depth About These Data Structure 
+----------------------------------
+
+Arrays.
+Stacks.
+Queues.
+Linked Lists.
+Trees.
+Graphs.
+Tries (they are effectively trees, but it's still good to call them out separately).
+Hash Tables.
+
+
+================
+
